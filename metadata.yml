@@ -1,0 +1,12 @@
+---
+:id: 120898637
+:submitters:
+- :name: Catherine Tran
+  :email: tran1126@umn.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-04-10 04:54:42.508841000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-04-09 21:54:42.508841000 Z
+:status: processed
+:score: 95.5
